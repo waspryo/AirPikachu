@@ -3,8 +3,7 @@
 実装した機能
 ・ログイン機能
 
-・Google Map API
-・Geocodeによる住所の候補
+・Google Map API　　・Geocodeによる住所の候補
 ・Stripeによるクレジットカード決済機能
 ・DatePicekerによるカレンダー機能
 ・ツアーを検索する機能
