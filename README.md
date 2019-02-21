@@ -2,6 +2,7 @@
 
 実装した機能
 ・ログイン機能
+
 ・Google Map API
 ・Geocodeによる住所の候補
 ・Stripeによるクレジットカード決済機能
