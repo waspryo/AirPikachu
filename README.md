@@ -1,25 +1,12 @@
-# README
+#食を通して外国人観光客をツアーで案内するサービス
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+実装した機能
+・ログイン機能
+・Google Map API
+・Geocodeによる住所の候補
+・Stripeによるクレジットカード決済機能
+・DatePicekerによるカレンダー機能
+・ツアーを検索する機能
+・ツアーをフィルタリングして検索を最適化する機能
 
-Things you may want to cover:
-
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
 # AirPikachu
